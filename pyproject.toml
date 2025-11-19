@@ -1,0 +1,15 @@
+[project]
+name = "home-mcp"
+version = "0.1.0"
+description = "A MCP Server to control the home"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastmcp>=2.13.1",
+    "openai-whisper>=20250625",
+]
+
+[dependency-groups]
+dev = [
+    "pyright>=1.1.407",
+]
