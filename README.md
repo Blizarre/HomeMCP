@@ -1,4 +1,4 @@
-# A short experiment using MCP server at home
+# A short experiment with MCP servers at home
 
 This is a small [MCP](https://en.wikipedia.org/wiki/Model_Context_Protocol) server that I used to experiment with the concept. It can play a radio based on a list in `radios.json`, stop the radio, and send a telegram message to me or to my wife.
 
