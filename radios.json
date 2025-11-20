@@ -1,0 +1,303 @@
+[
+  {
+    "name": "9128.live",
+    "url": "http://streams.radio.co:80/s0aa1e6f4a/listen",
+    "genres": [
+      "Electronic"
+    ],
+    "id": "2",
+    "bitrate": 320
+  },
+  {
+    "name": "a.m. ambient",
+    "url": "http://radio.stereoscenic.com/ama-h",
+    "genres": [
+      "Ambient"
+    ],
+    "id": "3",
+    "bitrate": 256
+  },
+  {
+    "name": "#1 EDM RADIO | AH.FM",
+    "url": "http://fr.ah.fm:8000/live",
+    "genres": [
+      "Electronic",
+      "Dance",
+      "Trance"
+    ],
+    "id": "6",
+    "bitrate": 192
+  },
+  {
+    "name": "#1 EDM RADIO | AH.FM",
+    "url": "http://fr2.ah.fm:8000/live",
+    "genres": [
+      "Electronic",
+      "Dance",
+      "Trance"
+    ],
+    "id": "7",
+    "bitrate": 192
+  },
+  {
+    "name": "Ambient Sleeping Pill",
+    "url": "http://radio.stereoscenic.com/asp-h",
+    "genres": [
+      "Ambient",
+      "Sleep"
+    ],
+    "id": "17",
+    "bitrate": 256
+  },
+  {
+    "name": "badradio",
+    "url": "https://s2.radio.co/s2b2b68744/listen",
+    "genres": [
+      "Alternative"
+    ],
+    "id": "25",
+    "bitrate": 320
+  },
+  {
+    "name": "Cashmere Radio",
+    "url": "https://cashmereradio.out.airtime.pro/cashmereradio_b",
+    "genres": [
+      "Eclectic",
+      "Electronic"
+    ],
+    "id": "32",
+    "bitrate": 192
+  },
+  {
+    "name": "dublab",
+    "url": "https://dublab.out.airtime.pro/dublab_a",
+    "genres": [
+      "Electronic",
+      "Experimental",
+      "Eclectic"
+    ],
+    "id": "39",
+    "bitrate": 192
+  },
+  {
+    "name": "Hirschmilch Prog-House",
+    "url": "https://hirschmilch.de:7501/prog-house.mp3",
+    "genres": [
+      "Electronic",
+      "Downtempo"
+    ],
+    "id": "63",
+    "bitrate": 384
+  },
+  {
+    "name": "KCHUNG",
+    "url": "https://kchungradio.out.airtime.pro/kchungradio_a",
+    "genres": [
+      "Community Radio",
+      "Eclectic"
+    ],
+    "id": "73",
+    "bitrate": 192
+  },
+  {
+    "name": "KCHUNG",
+    "url": "https://kchungradio.out.airtime.pro/kchungradio_b",
+    "genres": [
+      "Community Radio",
+      "Eclectic"
+    ],
+    "id": "74",
+    "bitrate": 192
+  },
+  {
+    "name": "KSPC Claremont",
+    "url": "http://andromeda.shoutca.st:8419/stream192",
+    "genres": [
+      "College Radio",
+      "Eclectic"
+    ],
+    "id": "79",
+    "bitrate": 192
+  },
+  {
+    "name": "KXLU Loyola Marymount",
+    "url": "http://kxlu.streamguys1.com/kxlu-hi",
+    "genres": [
+      "College Radio",
+      "Alternative"
+    ],
+    "id": "81",
+    "bitrate": 320
+  },
+  {
+    "name": "KXLU SoCalLoyolaMarymount",
+    "url": "http://www.ednixon.com:8120/stream",
+    "genres": [
+      "College Radio",
+      "Alternative"
+    ],
+    "id": "82",
+    "bitrate": 160
+  },
+  {
+    "name": "Kiosk Radio",
+    "url": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b",
+    "genres": [
+      "Electronic",
+      "Eclectic"
+    ],
+    "id": "85",
+    "bitrate": 192
+  },
+  {
+    "name": "NTS 1 London",
+    "url": "http://stream-relay-geo.ntslive.net/stream",
+    "genres": [
+      "Eclectic",
+      "Electronic",
+      "Experimental"
+    ],
+    "id": "88",
+    "bitrate": 256
+  },
+  {
+    "name": "NTS 2 Los Angeles",
+    "url": "http://stream-relay-geo.ntslive.net/stream2",
+    "genres": [
+      "Eclectic",
+      "Electronic",
+      "Experimental"
+    ],
+    "id": "89",
+    "bitrate": 256
+  },
+  {
+    "name": "Nectarine",
+    "url": "http://necta.burn.net:8000/nectarine",
+    "genres": [
+      "Game Music",
+      "Chiptune",
+      "Electronic"
+    ],
+    "id": "90",
+    "bitrate": 192
+  },
+  {
+    "name": "Nectarine",
+    "url": "http://nectarine.ers35.net:8000/necta192.mp3",
+    "genres": [
+      "Game Music",
+      "Chiptune",
+      "Electronic"
+    ],
+    "id": "91",
+    "bitrate": 192
+  },
+  {
+    "name": "Newtown Radio",
+    "url": "https://streaming.radio.co/s0d090ee43/listen",
+    "genres": [
+      "Community Radio",
+      "Eclectic"
+    ],
+    "id": "93",
+    "bitrate": 192
+  },
+  {
+    "name": "Radio Paradise - Global",
+    "url": "http://stream.radioparadise.com/global-192",
+    "genres": [
+      "Eclectic",
+      "World"
+    ],
+    "id": "102",
+    "bitrate": 192
+  },
+  {
+    "name": "Radio Paradise - Main Mix",
+    "url": "http://stream.radioparadise.com/rp_192m.ogg",
+    "genres": [
+      "Eclectic",
+      "Rock",
+      "Alternative"
+    ],
+    "id": "105",
+    "bitrate": 192
+  },
+  {
+    "name": "RadioParadise MainMix",
+    "url": "http://stream.radioparadise.com/mp3-192",
+    "genres": [
+      "Eclectic",
+      "Rock",
+      "Alternative"
+    ],
+    "id": "106",
+    "bitrate": 192
+  },
+  {
+    "name": "Sanctuary Radio",
+    "url": "https://patmos.cdnstream.com/proxy/sanctua1?mp=/stream",
+    "genres": [
+      "Rock",
+      "Metal",
+      "Alternative"
+    ],
+    "id": "116",
+    "bitrate": 192
+  },
+  {
+    "name": "Soho Radio",
+    "url": "https://sohoradiomusic.doughunt.co.uk:8010/320mp3",
+    "genres": [
+      "Eclectic",
+      "Electronic",
+      "UK"
+    ],
+    "id": "128",
+    "bitrate": 320
+  },
+  {
+    "name": "Subcity Radio",
+    "url": "https://stream.subcity.org/listen",
+    "genres": [
+      "College Radio",
+      "Eclectic"
+    ],
+    "id": "213",
+    "bitrate": 320
+  },
+  {
+    "name": "SyntheticFM - New Italo Disco",
+    "url": "http://stream.syntheticfm.com:8030/stream",
+    "genres": [
+      "Italo Disco",
+      "Electronic",
+      "80s"
+    ],
+    "id": "214",
+    "bitrate": 320
+  },
+  {
+    "name": "SyntheticFM - Synth",
+    "url": "http://stream.syntheticfm.com:8040/stream",
+    "genres": [
+      "Synthwave",
+      "Electronic",
+      "Retro"
+    ],
+    "id": "215",
+    "bitrate": 256
+  },
+  {
+    "name": "WorldwideFM",
+    "url": "https://worldwidefm.out.airtime.pro/worldwidefm_b",
+    "genres": [
+      "Eclectic",
+      "World",
+      "Electronic"
+    ],
+    "id": "218",
+    "bitrate": 192
+  }
+]
