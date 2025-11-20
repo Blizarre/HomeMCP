@@ -2,7 +2,7 @@
 
 This is a small [MCP](https://en.wikipedia.org/wiki/Model_Context_Protocol) server that I used to experiment with the concept. It can play a radio based on a list in `radios.json`, stop the radio, and send a telegram message to me or to my wife.
 
-You will need the vlc cli (probably available in your packages manager in `vlc`).
+You will need the ffplay cli (probably available in your packages manager in `ffmpeg`). You can set another cli music player in your `.env` file.
 
 I scraped the radios from various sources using claude. I haven't listened to most of them yet.
 

@@ -14,6 +14,7 @@ class Config(BaseSettings):
     my_chat_id: str
     madame_chat_id: str
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8")
+    player_args: list[str]
 
     port: int
     host: str
@@ -57,7 +58,7 @@ class ServerContext:
         if len(radios) != 1:
             raise ValueError(f"Could not find the radio with id {radio_id}")
         radio = radios[0]
-        context.player = Popen(["cvlc", radio.url])
+        context.player = Popen(config.player_args + [radio.url])
         context.current_radio = radio
 
 

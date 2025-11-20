@@ -3,3 +3,4 @@ my_chat_id=XXX
 madame_chat_id=XXX
 port=12345
 host=localhost
+player_args=["ffplay", "-nodisp", "-autoexit"]
