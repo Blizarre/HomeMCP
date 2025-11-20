@@ -1,12 +1,11 @@
-import json
 from typing import Optional
 from fastmcp import FastMCP
 from subprocess import Popen
 from contextlib import asynccontextmanager
 import requests
 from pathlib import Path
-from typing import Any
 from dataclasses import dataclass
+from pydantic import BaseModel, RootModel
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
@@ -23,30 +22,47 @@ class Config(BaseSettings):
 config = Config()
 
 
+class Radio(BaseModel):
+    name: str
+    url: str
+    genres: list[str]
+    id: str
+    bitrate: int
+
+
+class RadioList(RootModel[list[Radio]]):
+    root: list[Radio]
+
+    def __iter__(self):
+        return iter(self.root)
+
+    def __getitem__(self, item: int):
+        return self.root[item]
+
+
 @dataclass()
 class ServerContext:
-    radios: dict[Any, Any]
+    radios: RadioList
     player: Optional[Popen[bytes]] = None
-    current_radio = None
+    current_radio: Optional[Radio] = None
 
     def stop_radio(self):
         if self.player:
             self.player.terminate()
-        if self.current_radio:
-            self.current_radio = None
+        self.current_radio = None
 
     def start_radio(self, radio_id: str):
         self.stop_radio()
-        radios = [radio for radio in context.radios if radio["id"] == radio_id]
+        radios = [radio for radio in context.radios if radio.id == radio_id]
         if len(radios) != 1:
             raise ValueError(f"Could not find the radio with id {radio_id}")
         radio = radios[0]
-        context.player = Popen(["cvlc", radio["url"]])
+        context.player = Popen(["cvlc", radio.url])
         context.current_radio = radio
 
 
 with open(Path(__file__).parent / "radios.json") as fd:
-    radios = json.load(fd)
+    radios = RadioList.model_validate_json(fd.read())
 
 context = ServerContext(radios=radios)
 
