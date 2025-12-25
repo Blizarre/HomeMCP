@@ -1,313 +1,489 @@
 [
   {
+    "name": "FIP Paris",
+    "url": "https://stream.radiofrance.fr/fip/fip_hifi.m3u8?id=radiofrance",
+    "genres": [
+      "Jazz",
+      "World",
+      "Chanson",
+      "Classical",
+      "Blues",
+      "Soul",
+      "Electronic",
+      "Pop-Rock"
+    ],
+    "id": "220",
+    "bitrate": 192,
+    "description": "Iconic French radio since 1971, broadcasting 300+ different tracks daily. Plays jazz, chanson francaise, world music, pop-rock, blues, electronic, classical, film soundtracks, soul, and reggae. 85% from independent labels with seamless genre-crossing transitions curated by expert programmers."
+  },
+  {
+    "name": "Punkrockers Radio",
+    "url": "https://stream.punkrockers-radio.de:8443/prr.flac",
+    "genres": [
+      "Punk Rock",
+      "Hardcore Punk",
+      "Crossover",
+      "Thrash Punk"
+    ],
+    "id": "225",
+    "bitrate": 1100,
+    "description": "German punk rock radio streaming in lossless FLAC quality. Plays classic and modern punk rock, hardcore punk, street punk, and crossover. Features bands from The Ramones and Dead Kennedys to modern punk acts. Commercial-free 24/7 punk broadcast."
+  },
+  {
     "name": "9128.live",
     "url": "http://streams.radio.co:80/s0aa1e6f4a/listen",
     "genres": [
-      "Electronic"
+      "Ambient",
+      "Drone",
+      "Deep Techno",
+      "IDM",
+      "Modern Classical",
+      "Experimental"
     ],
     "id": "2",
-    "bitrate": 320
+    "bitrate": 320,
+    "description": "24/7 curated radio by A Strangely Isolated Place (ASIP) since 2019. Plays ambient, drone, field recordings, modern classical, deep techno, electronica/IDM, and experimental soundscapes. All music played with artist permission, featuring album premieres and exclusive unreleased tracks."
   },
   {
     "name": "a.m. ambient",
     "url": "http://radio.stereoscenic.com/ama-h",
     "genres": [
-      "Ambient"
+      "Ambient",
+      "Atmospheric",
+      "Relaxation"
     ],
     "id": "3",
-    "bitrate": 256
+    "bitrate": 256,
+    "description": "Stereoscenic's daytime ambient station launched in 2014. Features peaceful, brighter ambient music perfect for mornings and focused work - a more uplifting counterpart to Ambient Sleeping Pill. Plays lush, atmospheric soundscapes without dark or new-age styles."
   },
   {
     "name": "#1 EDM RADIO | AH.FM",
     "url": "http://fr.ah.fm:8000/live",
     "genres": [
-      "Electronic",
-      "Dance",
-      "Trance"
+      "Trance",
+      "Progressive Trance",
+      "Psytrance",
+      "Melodic Techno",
+      "Progressive House",
+      "EDM"
     ],
     "id": "6",
-    "bitrate": 192
+    "bitrate": 192,
+    "description": "Toronto-based EDM station since 2006 with 150+ resident DJs and 300+ monthly shows. Plays uplifting trance, progressive trance, tech trance, vocal trance, psytrance, melodic techno, progressive house, and mainstage EDM. Home to the legendary EOYC (End of Year Countdown) events."
   },
   {
     "name": "#1 EDM RADIO | AH.FM",
     "url": "http://fr2.ah.fm:8000/live",
     "genres": [
-      "Electronic",
-      "Dance",
-      "Trance"
+      "Trance",
+      "Progressive Trance",
+      "Psytrance",
+      "Melodic Techno",
+      "Progressive House",
+      "EDM"
     ],
     "id": "7",
-    "bitrate": 192
+    "bitrate": 192,
+    "description": "Toronto-based EDM station since 2006 with 150+ resident DJs and 300+ monthly shows. Plays uplifting trance, progressive trance, tech trance, vocal trance, psytrance, melodic techno, progressive house, and mainstage EDM. Home to the legendary EOYC (End of Year Countdown) events."
   },
   {
     "name": "Ambient Sleeping Pill",
     "url": "http://radio.stereoscenic.com/asp-h",
     "genres": [
       "Ambient",
-      "Sleep"
+      "Sleep",
+      "Meditation",
+      "Relaxation"
     ],
     "id": "17",
-    "bitrate": 256
+    "bitrate": 256,
+    "description": "Ad-free, beat-free internet radio since 2013 for sleep, meditation, and relaxation. Plays carefully curated ambient music that creates calm without being depressing, dark, or new-age. Ideal for blocking distractions while working, studying, or falling asleep."
   },
   {
     "name": "badradio",
     "url": "https://s2.radio.co/s2b2b68744/listen",
     "genres": [
-      "Alternative"
+      "Phonk",
+      "Memphis Rap",
+      "Trap",
+      "Chopped & Screwed",
+      "Underground Hip-Hop"
     ],
     "id": "25",
-    "bitrate": 320
+    "bitrate": 320,
+    "description": "24/7 underground radio with 100,000+ listeners worldwide. Plays OG phonk, Memphis rap, Houston chopped & screwed, trill, trap, and underground hip-hop. Features vintage 90s Memphis rap vocals, cowbell-driven beats, and bass-heavy productions from the world's best underground producers."
   },
   {
     "name": "Cashmere Radio",
     "url": "https://cashmereradio.out.airtime.pro/cashmereradio_b",
     "genres": [
-      "Eclectic",
-      "Electronic"
+      "Experimental",
+      "Drum & Bass",
+      "Dub",
+      "Ambient",
+      "Jazz",
+      "Avant-Garde",
+      "World"
     ],
     "id": "32",
-    "bitrate": 192
-  },
-  {
-    "name": "dublab",
-    "url": "https://dublab.out.airtime.pro/dublab_a",
-    "genres": [
-      "Electronic",
-      "Experimental",
-      "Eclectic"
-    ],
-    "id": "39",
-    "bitrate": 192
-  },
-  {
-    "name": "Hirschmilch Prog-House",
-    "url": "https://hirschmilch.de:7501/prog-house.mp3",
-    "genres": [
-      "Electronic",
-      "Downtempo"
-    ],
-    "id": "63",
-    "bitrate": 384
+    "bitrate": 192,
+    "description": "Berlin community experimental station since 2011 with 100+ regular shows. Plays bass music, drum & bass, dub, dubstep, ambient, experimental, avant-garde, synth pop, jazz, trip-hop, funk/soul, and Middle Eastern/North African music. Features live performances, generative music, and radio art installations."
   },
   {
     "name": "KCHUNG",
     "url": "https://kchungradio.out.airtime.pro/kchungradio_a",
     "genres": [
-      "Community Radio",
-      "Eclectic"
+      "Experimental",
+      "Noise",
+      "Freeform",
+      "Electronic",
+      "Talk Radio",
+      "Art"
     ],
     "id": "73",
-    "bitrate": 192
+    "bitrate": 192,
+    "description": "Artist-run LA Chinatown cooperative since 2011 with 200+ volunteer shows monthly. Plays experimental music, noise, early electronic/tape music, live performances, and freeform DJ sets. Also features talk shows, art reviews, surrealist meditations, and programming that might not be allowed elsewhere."
   },
   {
     "name": "KCHUNG",
     "url": "https://kchungradio.out.airtime.pro/kchungradio_b",
     "genres": [
-      "Community Radio",
-      "Eclectic"
+      "Experimental",
+      "Noise",
+      "Freeform",
+      "Electronic",
+      "Talk Radio",
+      "Art"
     ],
     "id": "74",
-    "bitrate": 192
+    "bitrate": 192,
+    "description": "Artist-run LA Chinatown cooperative since 2011 with 200+ volunteer shows monthly. Plays experimental music, noise, early electronic/tape music, live performances, and freeform DJ sets. Also features talk shows, art reviews, surrealist meditations, and programming that might not be allowed elsewhere."
   },
   {
     "name": "KSPC Claremont",
     "url": "http://andromeda.shoutca.st:8419/stream192",
     "genres": [
       "College Radio",
-      "Eclectic"
+      "Jazz",
+      "Classical",
+      "Electronic",
+      "Hip Hop",
+      "Americana",
+      "Underground"
     ],
     "id": "79",
-    "bitrate": 192
+    "bitrate": 192,
+    "description": "Pomona College radio since 1956 (Frank Zappa hosted here in 1962-63). Human-curated programming in blocks: underground rock, jazz (bebop, Dixieland, Latin, fusion), classical, Americana, electronic, and hip hop. Specialty shows feature soul, polka, reggae, film soundtracks, video game music, and modular synth."
   },
   {
     "name": "KXLU Loyola Marymount",
     "url": "http://kxlu.streamguys1.com/kxlu-hi",
     "genres": [
-      "College Radio",
-      "Alternative"
+      "Indie Rock",
+      "Alternative",
+      "Punk",
+      "Electronic",
+      "Jazz",
+      "Latin",
+      "Metal"
     ],
     "id": "81",
-    "bitrate": 320
+    "bitrate": 320,
+    "description": "LA's only independent station since 1957, broke Nirvana, Jane's Addiction, and RHCP. Plays 80 hours weekly of indie rock, plus electronica, punk, metal, noise, jazz, classical, folk, psychedelic, reggae, and Latin. Home to Demolisten (since 1984), playing only unsigned artist demos."
   },
   {
     "name": "KXLU SoCalLoyolaMarymount",
     "url": "http://www.ednixon.com:8120/stream",
     "genres": [
-      "College Radio",
-      "Alternative"
+      "Indie Rock",
+      "Alternative",
+      "Punk",
+      "Electronic",
+      "Jazz",
+      "Latin",
+      "Metal"
     ],
     "id": "82",
-    "bitrate": 160
+    "bitrate": 160,
+    "description": "LA's only independent station since 1957, broke Nirvana, Jane's Addiction, and RHCP. Plays 80 hours weekly of indie rock, plus electronica, punk, metal, noise, jazz, classical, folk, psychedelic, reggae, and Latin. Home to Demolisten (since 1984), playing only unsigned artist demos."
   },
   {
     "name": "Kiosk Radio",
     "url": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b",
     "genres": [
-      "Electronic",
+      "House",
+      "Techno",
+      "Ambient",
+      "IDM",
+      "Jazz",
+      "Experimental",
       "Eclectic"
     ],
     "id": "85",
-    "bitrate": 192
+    "bitrate": 192,
+    "description": "Brussels community radio since 2017 from a wooden kiosk in Parc Royal. Plays house, techno, deep house, minimal, electro, ambient, IDM, baile funk, jazz, rock, blues, and experimental. Genres change drastically hour to hour - from extreme hardcore to ambient, boogie to experimental."
   },
   {
     "name": "NTS 1 London",
     "url": "http://stream-relay-geo.ntslive.net/stream",
     "genres": [
       "Eclectic",
-      "Electronic",
+      "Hip-Hop",
+      "Jazz",
+      "House",
+      "Techno",
+      "Ambient",
+      "Dub",
       "Experimental"
     ],
     "id": "88",
-    "bitrate": 256
+    "bitrate": 256,
+    "description": "Pioneering London station since 2011 with 360,000 daily listeners. Plays hip-hop, jungle, jazz, electronic, ambient, drone, ragas, house, techno, reggae, dub, post-punk, industrial, minimal wave, classical, soul, gospel, boogie, and Afrobeats mixed with post-punk. 40% of music not on Spotify."
   },
   {
     "name": "NTS 2 Los Angeles",
     "url": "http://stream-relay-geo.ntslive.net/stream2",
     "genres": [
       "Eclectic",
-      "Electronic",
+      "Hip-Hop",
+      "Jazz",
+      "House",
+      "Techno",
+      "Ambient",
+      "Dub",
       "Experimental"
     ],
     "id": "89",
-    "bitrate": 256
+    "bitrate": 256,
+    "description": "NTS's second channel broadcasting from LA. Continues NTS's genre-defying mission with human-curated shows spanning hip-hop, jungle, jazz, electronic, ambient, house, techno, reggae, dub, post-punk, industrial, classical, soul, and experimental sounds from around the globe."
   },
   {
     "name": "Nectarine",
     "url": "http://necta.burn.net:8000/nectarine",
     "genres": [
-      "Game Music",
       "Chiptune",
-      "Electronic"
+      "8-bit",
+      "Demoscene",
+      "Tracker Music",
+      "Game Music",
+      "Retro"
     ],
     "id": "90",
-    "bitrate": 192
+    "bitrate": 192,
+    "description": "Demoscene radio since 2002, streaming 24/7 tribute to computer music. Plays chiptune, 8-bit, tracker music (MOD, XM, IT, SID formats), Amiga game tunes, C64 remakes, and demo scene productions. Features music from ProTracker, FastTracker, Impulse Tracker, and vintage sound hardware."
   },
   {
     "name": "Nectarine",
     "url": "http://nectarine.ers35.net:8000/necta192.mp3",
     "genres": [
-      "Game Music",
       "Chiptune",
-      "Electronic"
+      "8-bit",
+      "Demoscene",
+      "Tracker Music",
+      "Game Music",
+      "Retro"
     ],
     "id": "91",
-    "bitrate": 192
+    "bitrate": 192,
+    "description": "Demoscene radio since 2002, streaming 24/7 tribute to computer music. Plays chiptune, 8-bit, tracker music (MOD, XM, IT, SID formats), Amiga game tunes, C64 remakes, and demo scene productions. Features music from ProTracker, FastTracker, Impulse Tracker, and vintage sound hardware."
   },
   {
     "name": "Newtown Radio",
     "url": "https://streaming.radio.co/s0d090ee43/listen",
     "genres": [
-      "Community Radio",
-      "Eclectic"
+      "Indie Rock",
+      "Alternative",
+      "Dream Pop",
+      "Disco",
+      "House",
+      "Hip Hop",
+      "Electronic"
     ],
     "id": "93",
-    "bitrate": 192
+    "bitrate": 192,
+    "description": "Brooklyn freeform nonprofit since 2009 from Bushwick. Plays indie rock, alternative, dream pop, disco, house, afrobeats, dancehall, dub, dubstep, garage rock, hip hop, electronic, ambient, and 80s. Featured artists include Mac DeMarco, Beach Fossils, DIIV, Real Estate, and Sky Ferreira."
   },
   {
     "name": "Radio Paradise - Global",
     "url": "http://stream.radioparadise.com/global-192",
     "genres": [
+      "World",
+      "Global",
       "Eclectic",
-      "World"
+      "Folk",
+      "Traditional"
     ],
     "id": "102",
-    "bitrate": 192
+    "bitrate": 192,
+    "description": "Radio Paradise's world music channel, part of the listener-supported station founded in 2000. Plays global and world music from diverse cultures and traditions, with the same human-curated approach and seamless transitions that define all RP channels. Commercial-free with no subscription fees."
   },
   {
     "name": "Radio Paradise - Main Mix",
     "url": "http://stream.radioparadise.com/rp_192m.ogg",
     "genres": [
-      "Eclectic",
       "Rock",
-      "Alternative"
+      "Alternative",
+      "Indie",
+      "Electronic",
+      "Jazz",
+      "World",
+      "Classical"
     ],
     "id": "105",
-    "bitrate": 192
+    "bitrate": 192,
+    "description": "Listener-supported station since 2000 with 16,000+ active tracks. Plays modern and classic rock, alternative, indie, pop, world music, electronica, jazz, blues, classical, and folk. Human-curated with seamless harmonic and rhythmic transitions between genres. Commercial-free, no algorithms."
   },
   {
     "name": "RadioParadise MainMix",
     "url": "http://stream.radioparadise.com/mp3-192",
     "genres": [
-      "Eclectic",
       "Rock",
-      "Alternative"
+      "Alternative",
+      "Indie",
+      "Electronic",
+      "Jazz",
+      "World",
+      "Classical"
     ],
     "id": "106",
-    "bitrate": 192
+    "bitrate": 192,
+    "description": "Listener-supported station since 2000 with 16,000+ active tracks. Plays modern and classic rock, alternative, indie, pop, world music, electronica, jazz, blues, classical, and folk. Human-curated with seamless harmonic and rhythmic transitions between genres. Commercial-free, no algorithms."
   },
   {
     "name": "Sanctuary Radio",
     "url": "https://patmos.cdnstream.com/proxy/sanctua1?mp=/stream",
     "genres": [
-      "Rock",
-      "Metal",
-      "Alternative"
+      "Dark Electro",
+      "Industrial",
+      "EBM",
+      "Gothic",
+      "Darkwave",
+      "New Wave",
+      "Synthpop"
     ],
     "id": "116",
-    "bitrate": 192
+    "bitrate": 192,
+    "description": "Denver dark music station since 1995 with 2 commercial-free channels. Plays dark electro, industrial, EBM (Electronic Body Music), gothic rock, darkwave, new wave, synthpop, deathrock, and retro 80s alternative. Listener-supported sanctuary for underground dark music enthusiasts."
   },
   {
     "name": "Soho Radio",
     "url": "https://sohoradiomusic.doughunt.co.uk:8010/320mp3",
     "genres": [
-      "Eclectic",
-      "Electronic",
-      "UK"
+      "Soul",
+      "Jazz",
+      "Funk",
+      "Reggae",
+      "Hip-Hop",
+      "Psychedelic",
+      "Dub",
+      "Indie"
     ],
     "id": "128",
-    "bitrate": 320
+    "bitrate": 320,
+    "description": "Independent station from London (2014) and NYC with 250+ presenters including Dennis Bovell and DJ Norman Jay. Plays soul, ambient, rockabilly, psychedelic, jazz, boogie, hip-hop, reggae, funk, indie, and dub. Reflects Soho's diverse culture with musicians, poets, and filmmakers."
   },
   {
     "name": "Subcity Radio",
     "url": "https://stream.subcity.org/listen",
     "genres": [
-      "College Radio",
-      "Eclectic"
+      "Techno",
+      "Drum & Bass",
+      "Synthpop",
+      "Jazz",
+      "Hip-Hop",
+      "Garage",
+      "Experimental"
     ],
     "id": "213",
-    "bitrate": 320
+    "bitrate": 320,
+    "description": "Glasgow University freeform station since 1995 with 200+ contributors. Plays Motown, drum & bass, synthpop, jazz, techno, garage, hyperpop, experimental, R&B, and hip-hop. No playlist - DJs have complete freedom. Alumni include Hudson Mohawke, Optimo, and Slam."
   },
   {
     "name": "SyntheticFM - New Italo Disco",
     "url": "http://stream.syntheticfm.com:8030/stream",
     "genres": [
       "Italo Disco",
-      "Electronic",
-      "80s"
+      "Nu Disco",
+      "Synth",
+      "80s",
+      "Disco"
     ],
     "id": "214",
-    "bitrate": 320
+    "bitrate": 320,
+    "description": "24/7 station dedicated to new Italo Disco that sounds like the 80s. Plays contemporary Italo disco productions alongside classic influences, featuring melodic synth lines, disco rhythms, and retro-futuristic productions from today's artists keeping the genre alive."
   },
   {
     "name": "SyntheticFM - Synth",
     "url": "http://stream.syntheticfm.com:8040/stream",
     "genres": [
       "Synthwave",
+      "Retrowave",
+      "Outrun",
+      "Darksynth",
       "Electronic",
-      "Retro"
+      "80s"
     ],
     "id": "215",
-    "bitrate": 256
+    "bitrate": 256,
+    "description": "24/7 synthwave radio playing retro electronic music inspired by 80s aesthetics. Features synthwave, retrowave, outrun, darksynth, and dreamwave - melodic instrumental electronic music evoking 80s film soundtracks, video games, and the golden age of analog synthesizers."
   },
   {
     "name": "WorldwideFM",
     "url": "https://worldwidefm.out.airtime.pro/worldwidefm_b",
     "genres": [
-      "Eclectic",
+      "Jazz",
+      "Funk",
+      "Soul",
+      "Reggae",
+      "Hip Hop",
       "World",
+      "Latin",
       "Electronic"
     ],
     "id": "218",
-    "bitrate": 192
+    "bitrate": 192,
+    "description": "Gilles Peterson's global platform since 2016 with jazz at its core. Plays jazz, funk, soul, reggae, hip hop, grime, dubstep, MPB (Brazilian), Latin, ambient, R&B, indie, post-punk, acid jazz, and new age. Connects underground music, culture, and stories from around the globe."
   },
   {
-    "name": "FIP Paris",
-    "url": "https://stream.radiofrance.fr/fip/fip_hifi.m3u8?id=radiofrance",
+    "name": "La Grosse Radio Metal",
+    "url": "http://hd.lagrosseradio.info:8000/lagrosseradio-metal-192.mp3",
     "genres": [
-      "Eclectic",
-      "World"
+      "Heavy Metal",
+      "Hard Rock",
+      "Thrash Metal",
+      "Death Metal",
+      "Power Metal"
     ],
-    "id": "220",
-    "bitrate": 192
+    "id": "224",
+    "bitrate": 192,
+    "description": "French metal radio from Paris streaming 24/7 in 192kbps. Plays all subgenres of metal including heavy metal, hard rock, thrash, death, black, power, and progressive metal. Part of the La Grosse Radio network with dedicated genre channels."
+  },
+  {
+    "name": "Metal Devastation Radio",
+    "url": "http://c13.radioboss.fm:8099/autodj",
+    "genres": [
+      "Death Metal",
+      "Black Metal",
+      "Thrash Metal",
+      "Heavy Metal",
+      "Extreme Metal"
+    ],
+    "id": "226",
+    "bitrate": 320,
+    "description": "Underground metal radio from Nashville since 2013. Fully licensed worldwide station playing all genres of heavy metal including death, black, thrash, doom, prog, power, and extreme metal. Features both signed and unsigned bands from around the world."
+  },
+  {
+    "name": "Metal Shop Radio",
+    "url": "http://quincy.torontocast.com:1500/stream",
+    "genres": [
+      "80s Metal",
+      "Heavy Metal",
+      "Hard Rock",
+      "Glam Metal",
+      "Hair Metal"
+    ],
+    "id": "227",
+    "bitrate": 192,
+    "description": "Kick-ass 80s metal streaming commercial-free 24/7. Plays classic heavy metal and hard rock from the golden era including Motley Crue, Def Leppard, Iron Maiden, Judas Priest, Ozzy, Dio, and the entire 80s metal scene. Pure nostalgia for metalheads."
   }
 ]
